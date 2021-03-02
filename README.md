@@ -16,7 +16,7 @@
 				<body>
 					<html>
 						<h2>Trade And Talk Community</h2>
-						<p><a href="https://www.mql5.com/en/users/osamaahmed/">Visit MetaQuotes Ltd.</a></p>
+						<a href="https://www.mql5.com/en/users/osamaahmed/">Visit MetaQuotes Ltd.</a>
 						<body>
 							<html>
 								<h1 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h1>
