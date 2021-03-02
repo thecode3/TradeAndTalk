@@ -25,7 +25,6 @@
 								<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 								<div id="navigatorWidget"></div>
 								<script type="text/javascript">
-									<p>
 									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 									<div id="navigatorWidget"></div>
 									<script type="text/javascript">
