@@ -26,7 +26,7 @@
 								<div id="navigatorWidget"></div>
 								<script type="text/javascript">
 									new
-navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":"100%","height":"100%"});
+navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":"1300%","height":"800%"});
 								</script>
 								<h2 style="color:16755C;text-align:center;"> <p>Trade And Talk Community©®™ 2021 <br> All legal rights are held by © 2021 GitHub, Inc.</h2>
 								<head>
