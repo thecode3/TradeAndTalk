@@ -21,7 +21,7 @@
 							<html>
 								<h1 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h1>
 								<p style="color:16755C;"> The Calendar : Currency And Alt Coin And Crypto Currency And Tokens 
-								<h2 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021<br>All legal rights are held by © 2021 GitHub, Inc.</h2>
+								<h2 style="color:16755C;text-align:center;"> <p>Trade And Talk Community©®™ 2021 <br> All legal rights are held by © 2021 GitHub, Inc.</h2>
 								<head>
 									<body>
 										<html>
