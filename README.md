@@ -1,18 +1,21 @@
 The Calendar :
 Currency And Alt Coin And Crypto Currency And Tokens
 
-<iframe frameborder="0" width="100%" height="140" src="https://www.mql5.com/en/signals/widget/signal/57tg?t=16755C"></iframe>
+
 
 <audio url="(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true)" controls preload></audio>
 
 
 
----
-layout: My Name
-title: OSAMAH AHMED.
----
 
 
+<iframe frameborder="0" width="100%" height="140" src="https://www.mql5.com/en/signals/widget/signal/57tg?t=16755C"></iframe>
+<iframe frameborder="0" width="100%" height="390" src="https://www.mql5.com/en/signals/widget/top/57u4?c=5&t=16755C"></iframe>
+<iframe src="https://www.mql5.com/en/signals/widget/showcase/57u6"></iframe>
+
+<iframe frameborder="0" width="100%" height="140" src="https://www.mql5.com/en/signals/widget/signal/57tw?t=16755C"></iframe>
+<iframe frameborder="0" width="100%" height="390" src="https://www.mql5.com/en/signals/widget/top/57tz?c=5&t=16755C"></iframe>
+<iframe src="https://www.mql5.com/en/signals/widget/showcase/57u7"></iframe>
 
 
 
