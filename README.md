@@ -10,7 +10,7 @@ Currency And Alt Coin And Crypto Currency And Tokens
 
 <audio controls loop>
   <source src=/Blue1.mp3>
-  <source src=/Blue1.mp3>
+  <source src/Blue2.mp3>
   Your browser does not support the audio element.
 </audio>
 
