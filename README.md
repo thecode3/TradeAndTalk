@@ -7,13 +7,11 @@ Currency And Alt Coin And Crypto Currency And Tokens
 
 <p>
 
-
-<audio controls loop>
-  <source src=src/Blue1.mp3>
-  <source src=src/Blue2.mp3>
-  Your browser does not support the audio element.
+<audio class="audio" controls autoplay>
+  <source src="./src/Blue1.mp3" type="audio/ogg">
+  <source src="./src/Blue2.mp3" type="audio/mpeg">
+ <!-- <embed height="50" width="100" src="./1.mp3"> NOT NECESSARY -->
 </audio>
-
 
 
 <p>
