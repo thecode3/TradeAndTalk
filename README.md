@@ -1,5 +1,23 @@
 #TradeAndTalk
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The audio loop attribute</h1>
+
+<p>Click on the play button to play a sound:</p>
+
+<audio controls autoplay loop>
+  <source src="Blue1.mp3" type="audio/mp3">
+  <source src="Blue2.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>
+
+
 The Calendar :
 Currency And  Alt Coin  And Crypto Currency And Tokens 
 
@@ -764,21 +782,4 @@ function formatDateTimeIsoLocal(timestamp) {
 }
 
 </script>
-</html>
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>The audio loop attribute</h1>
-
-<p>Click on the play button to play a sound:</p>
-
-<audio controls autoplay loop>
-  <source src="Blue1.mp3" type="audio/mp3">
-  <source src="Blue2.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
-
-</body>
 </html>
