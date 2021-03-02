@@ -3,7 +3,7 @@ Currency And Alt Coin And Crypto Currency And Tokens
 
 
 
-<audio url="(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true)" controls preload></audio>
+<audio src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue1.mp3?raw=true">
 
 
 
