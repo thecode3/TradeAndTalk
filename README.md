@@ -2,7 +2,7 @@
 	<head>
 		<style>
 			body {
-			background-image: url('img_girl.jpg');
+			background-image: url(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true);
 			background-repeat: no-repeat;
 			background-attachment: fixed; 
 			background-size: 100% 100%;
