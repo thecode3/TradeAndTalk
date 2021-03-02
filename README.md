@@ -22,7 +22,7 @@
 								<h1 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h1>
 								<p style="color:16755C;"> The Calendar : Currency And Alt Coin And Crypto Currency And Tokens <p>
 								<p>
-								<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
+									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 								<div id="navigatorWidget"></div>
 								<script type="text/javascript">
 									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
