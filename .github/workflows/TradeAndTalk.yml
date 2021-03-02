@@ -1,0 +1,121 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+- name: Jekyll Actions
+  # You may pin to the exact commit or the version.
+  # uses: helaili/jekyll-action@a48b8b3f5520f3cb5d92aaad1dfb4069b708e7c9
+  uses: helaili/jekyll-action@2.1.0
+  with:
+    # The GITHUB_TOKEN secret
+    token: # optional
+    # The Jekyll environment to build
+    jekyll_env: # optional
+    # The Jekyll website source directory
+    jekyll_src: # optional
+    # Additional Jekyll build arguments (see https://jekyllrb.com/docs/configuration/options/#build-command-options)
+    jekyll_build_options: # optional
+    # The Jekyll Gemfile directory
+    gem_src: # optional
+    # The target branch name the sources get pushed to
+    target_branch: # optional
+    # Will build the Jekyll site without publishing it
+    build_only: # optional
+    # Commands to run prior to build and deploy. Useful for ensuring build dependencies are up to date or installing  new dependencies. For example, use `apk --update add  imagemagick` to install ImageMagick.
+
+    pre_build_commands: # optional
+- name: jekyll-deploy
+  # You may pin to the exact commit or the version.
+  # uses: DavidS/jekyll-deploy@4e59472205269cce9739ac284303e74701fd7e9d
+  uses: DavidS/jekyll-deploy@1.1.1
+  with:
+    # Set to "true" to only build, but not deploy. This is useful for PR testing
+    build-only: # optional, default is false
+- name: Jekyll Action
+  # You may pin to the exact commit or the version.
+  # uses: lemonarc/jekyll-action@2d5e5a2316cd9d4b74ad33da527d6d9be5bff8d1
+  uses: lemonarc/jekyll-action@1.0.0
+- name: Jekyll diff
+  # You may pin to the exact commit or the version.
+  # uses: David-Byrne/jekyll-diff-action@16eb54ecbaf60e735c97f8d6970ed5f11d21ea0e
+  uses: David-Byrne/jekyll-diff-action@v1.3.0
+- name: Jekyll Screenshot
+  # You may pin to the exact commit or the version.
+  # uses: hakierspejs/jekyll-screenshot-github-action@d43cdc6a89276c56b743191a4a7ff9cced535c48
+  uses: hakierspejs/jekyll-screenshot-github-action@1.0
+- name: Build Jekyll
+  # You may pin to the exact commit or the version.
+  # uses: jerryjvl/jekyll-build-action@0bab4194a14ea47ae5ca609fc5b95aaadab40060
+  uses: jerryjvl/jekyll-build-action@v1
+- name: Jekyll Build
+  # You may pin to the exact commit or the version.
+  # uses: kshehadeh/jekyll-s3-action@220371747871b9aa1b635fb30a57693891e37982
+  uses: kshehadeh/jekyll-s3-action@0.1
+- name: Jekyll Action TS
+  # You may pin to the exact commit or the version.
+  # uses: limjh16/jekyll-action-ts@9edf74e2e5aaa10d272c427efb8702a45a70a0b2
+  uses: limjh16/jekyll-action-ts@v2
+  with:
+    # The Jekyll website source directory
+    jekyll_src: # optional
+    # The Jekyll Gemfile directory
+    gem_src: # optional
+    # Custom Jekyll build options https://jekyllrb.com/docs/configuration/options/
+    custom_opts: # optional
+    # Enable caching within the action
+    enable_cache: # optional
+    # An explicit key for restoring and saving the cache
+    key: # optional
+    # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
+    restore-keys: # optional
+    # Format the output html files
+    format_output: # optional
+    # Custom prettier options to format output html files
+    prettier_opts: # optional
+    # Skips formatting certain files / paths
+    prettier_ignore: # optional
+- name: Jekyll build-only
+  # You may pin to the exact commit or the version.
+  # uses: mbursi/jekyll-build-only-action@916e8f40b9901f9c9d366255d104d175b80aa022
+  uses: mbursi/jekyll-build-only-action@v1.0.0
+- name: GitHub Jekyll Build Action
+  # You may pin to the exact commit or the version.
+  # uses: iranzo/gh-pages-jekyll-action@9448a4b29c5d4aa06ac350157b49db0e9f7f1338
+  uses: iranzo/gh-pages-jekyll-action@1.0.0
+  with:
+    # override the default `gh-pages` deployment branch
+    GH_PAGES_BRANCH: # optional, default is gh-pages
+    # override the default `./` folder for sources for website
+    SOURCE_FOLDER: # optional, default is ./
