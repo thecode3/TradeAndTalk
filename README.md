@@ -23,13 +23,7 @@ div.transbox p {
 <body>
 	<div class="background">
 		<div class="transbox">
-			<p>This is some text that is placed in the transparent box.</p>
-		</div>
-	</div>
-</body>
-</html>
-<body>
-	<h1 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h1>
+			<p><h1 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h1>
 	<p style="color:16755C;">The Calendar :
 Currency And Alt Coin And Crypto Currency And Tokens
 	<html>
@@ -56,5 +50,11 @@ Currency And Alt Coin And Crypto Currency And Tokens
 							<iframe src="https://discord.com/widget?id=816235280817717259&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><p>
 						<p>
 
-[![.github/workflows/TradeAndTalk.yml](https://github.com/thecode3/TradeAndTalk/actions/workflows/TradeAndTalk.yml/badge.svg)]      (https://github.com/thecode3/TradeAndTalk/actions/workflows/TradeAndTalk.yml)
+[![.github/workflows/TradeAndTalk.yml](https://github.com/thecode3/TradeAndTalk/actions/workflows/TradeAndTalk.yml/badge.svg)]      (https://github.com/thecode3/TradeAndTalk/actions/workflows/TradeAndTalk.yml)</p>
+</div>
+</div>
+</body>
+</html>
+<body>
+	
 	
