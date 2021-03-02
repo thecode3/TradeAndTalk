@@ -24,7 +24,6 @@ Currency And Alt Coin And Crypto Currency And Tokens
 <iframe src="https://www.mql5.com/en/signals/widget/showcase/57u6"></iframe>
 
 
-
 <p>
 
 
@@ -38,10 +37,12 @@ Currency And Alt Coin And Crypto Currency And Tokens
 
 
 
-<iframe src="https://discord.com/widget?id=816235280817717259&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=816235280817717259&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><p>
 
 
-<p>
+
+
+
 
 
 [![.github/workflows/TradeAndTalk.yml](https://github.com/thecode3/TradeAndTalk/actions/workflows/TradeAndTalk.yml/badge.svg)](https://github.com/thecode3/TradeAndTalk/actions/workflows/TradeAndTalk.yml)
