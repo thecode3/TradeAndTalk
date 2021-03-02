@@ -11,7 +11,7 @@
 	</head>
 	<body>
 		<h2>Background Stretch</h2>
-		<p>Set the background-size property to "100% 100%" and the background image will be stretched to cover the entire element, in this case the body element.</p>
+		<p>Set the background-size property to "50% 50%" and the background image will be stretched to cover the entire element, in this case the body element.</p>
 	</body>
 </html>
 <p>Trade And Talk Community©®™ 2021.</p>
