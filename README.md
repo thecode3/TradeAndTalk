@@ -25,7 +25,9 @@
 									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 								<div id="navigatorWidget"></div>
 								<script type="text/javascript">
-									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
+									<p>
+									<p>
+										<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 									<div id="navigatorWidget"></div>
 									<script type="text/javascript">
 										new navigatorWidget({"type":"matrix","filter":"","width":"100%","height":"100%"});
