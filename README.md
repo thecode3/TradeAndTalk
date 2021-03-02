@@ -20,7 +20,14 @@
 						<body>
 							<html>
 								<h1 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h1>
-								<p style="color:16755C;"> The Calendar : Currency And Alt Coin And Crypto Currency And Tokens 
+								<p style="color:16755C;"> The Calendar : Currency And Alt Coin And Crypto Currency And Tokens <br> 
+									<script
+										type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
+								<div id="navigatorWidget"></div>
+								<script type="text/javascript">
+									new
+navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":"100%","height":"100%"});
+								</script>
 								<h2 style="color:16755C;text-align:center;"> <p>Trade And Talk Community©®™ 2021 <br> All legal rights are held by © 2021 GitHub, Inc.</h2>
 								<head>
 									<body>
