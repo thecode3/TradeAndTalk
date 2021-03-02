@@ -10,14 +10,14 @@
 			/* The image used */
 			background-image: url(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true);
 			/* Full height */
-			height: 50%; 
+			height: 100%; 
 			/* Center and scale the image nicely */
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
 			}
-		</style>
-	</head>
+		<style>
+	<head>
 	<body>
 		<div class="bg"><html>
 			<head>
@@ -54,7 +54,6 @@
 
 </body>
 </html></div>
-
-<p>This example creates a half page background image. Try to resize the browser window to see how it always will cover 50% of the screen, and that it scales nicely on all screen sizes.</p>
+<p>Trade And Talk Community©®™ 2021.</p>
 </body>
 </html>
