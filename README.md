@@ -1,11 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
 
-
-<p>
-The Calendar :
+<h1 style="color:blue;text-align:center;">This is a header</h1>
+<p style="color:green;">The Calendar :
 Currency And Alt Coin And Crypto Currency And Tokens
 
 
-<p>
 <html>
 <audio controls autoplay>
 	<source src="./src/blue1.mp3" type="audio/mp3" />
@@ -43,3 +44,5 @@ Currency And Alt Coin And Crypto Currency And Tokens
 
 
 [![.github/workflows/TradeAndTalk.yml](https://github.com/thecode3/TradeAndTalk/actions/workflows/TradeAndTalk.yml/badge.svg)](https://github.com/thecode3/TradeAndTalk/actions/workflows/TradeAndTalk.yml)
+<p>
+	<a href="https://www.mql5.com/en/users/osamaahmed/">Visit MetaQuotes Ltd </a>
