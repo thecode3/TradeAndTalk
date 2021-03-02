@@ -1,20 +1,8 @@
 <html>
 	<head>
 		<style>
-			div.background {
-			background: url(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true) no-repeat;
-			border: 100px solid black;
-			}
-			div.transbox {
-			margin: 30px;
-			background-color: #ffffff;
-			border: 1px solid black;
-			opacity: 0.6;
-			}
-			div.transbox p {
-			margin: 100%;
-			font-weight: bold;
-			color: #000000;
+			body { 
+			background: lightblue url(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true) no-repeat fixed center; 
 			}
 		</style>
 	</head>
