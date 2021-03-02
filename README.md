@@ -1,13 +1,17 @@
 <html>
 	<body>
+		<audio controls autoplay>
+			<source src="horse.ogg" type="audio/ogg">
+			<source src="horse.mp3" type="audio/mpeg">
+			</audio>
 		<head>
 			<style>
-			body {
-			background-image: url(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true);
-			background-repeat: no-repeat;
-			background-attachment: fixed; 
-			background-size: 100% 100%;
-			}
+				body {
+				background-image: url(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true);
+				background-repeat: no-repeat;
+				background-attachment: fixed; 
+				background-size: 100% 100%;
+				}
 			</style>
 			<head>
 				<body>
@@ -19,10 +23,9 @@
 								<p>Trade And Talk Community©®™ 2021.</p>
 								<h1 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h1>
 								<p style="color:16755C;">The Calendar : Currency And Alt Coin And Crypto Currency And Tokens
-									<a href="https://www.mql5.com/en/users/osamaahmed/">Visit MetaQuotes Ltd </a>
+								<a href="https://www.mql5.com/en/users/osamaahmed/">Visit MetaQuotes Ltd </a>
 								<p>
-								<h2 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h2>
-								<style>
-									<head>
-										<body>
-											<html>
+								<h2 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021<br>All legal rights are held by © 2021 GitHub, Inc.</h2>
+								<head>
+									<body>
+										<html>
