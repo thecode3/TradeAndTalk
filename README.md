@@ -7,10 +7,10 @@ Currency And Alt Coin And Crypto Currency And Tokens
 
 <p>
 
-<video autoplay controls>
+<audio autoplay controls>
 	<source src="./src/blue1.mp3" type="audio/mp3" />
 	<source src="/src/blue2.mp3" type="audio/mp3" />
-</video>
+</audio>
 
 
 <p>
