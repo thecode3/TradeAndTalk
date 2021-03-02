@@ -10,8 +10,8 @@
 		<h1>The source element</h1>
 		<p>Click on the play button to play a sound:</p>
 		<audio controls>
-			<source src="horse.ogg" type="audio/ogg">
-			<source src="horse.mp3" type="audio/mpeg">
+			<source src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue1.mp3?raw=true">
+			<source src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue2.mp3?raw=true">
 			Your browser does not support the audio element.
 		</audio>
 	</body>
