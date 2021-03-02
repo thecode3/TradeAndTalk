@@ -3,7 +3,7 @@
 		<style>
 div.background {
   background: url(https://github.com/thecode3/TradeAndTalk/blob/main/TradeAndTalk%20Photos/TradeAndTalk%20Main.jpg?raw=true) repeat;
-  border: 2px solid black;
+  border: 100px solid black;
 }
 
 div.transbox {
