@@ -1,10 +1,8 @@
-# first-servers
- TradeAndTalk
+#TradeAndTalk
 
 The Calendar :
 Currency And  Alt Coin  And Crypto Currency And Tokens 
 
-    <!DOCTYPE html>
 <html style="height: 100%;">
 <head>
 	<meta charset="utf-8">
