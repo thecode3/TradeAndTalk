@@ -14,8 +14,8 @@
 					<html>
 						<a href="https://www.mql5.com/en/users/osamaahmed/">Visit MetaQuotes Ltd </a>
 						<audio controls autoplay>
-							<source src="./src/blue1.mp3" type="audio/mp3" />
-							<source src="/src/blue2.mp3" type="audio/mp3" />
+							<source src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue1.mp3" type="audio/mp3" />
+							<source src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue1.mp3" type="audio/mp3" />
 						</audio>
 						<p>
 							<body>
