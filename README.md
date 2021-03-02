@@ -25,13 +25,14 @@
 										type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 								<div id="navigatorWidget"></div>
 								<script type="text/javascript">new
-navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":"300%","height":"500%"});
+navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":"300%","height":"300%"});
 								</script>
 								<p>
 									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 								<div id="navigatorWidget"></div>
-								<script type="text/javascript">new navigatorWidget({"type":"matrix","filter":"","width":300,"height":500}
+								<script type="text/javascript">new navigatorWidget({"type":"matrix","filter":"","width":300,"height":300}
 								</script>
+								<p>
 								<h2 style="color:16755C;text-align:center;"> <p>Trade And Talk Community©®™ 2021 <br> All legal rights are held by © 2021 GitHub, Inc.</h2>
 								<head>
 									<body>
