@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta content="width=device-width, initial-scale=1" name="viewport">
@@ -28,8 +27,7 @@
 		          <head>
 		              <style>
 		                  <head>
-		                      
-		<body>
+					  <body>
 		                          <h1>The source element<\/h1>
 		                          <p>Click on the play button to play a sound:<\/p>
 		                          <audio controls>
