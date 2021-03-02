@@ -8,7 +8,6 @@ Currency And Alt Coin And Crypto Currency And Tokens
 
 
 
-
 <iframe frameborder="0" width="100%" height="140" src="https://www.mql5.com/en/signals/widget/signal/57tg?t=16755C"></iframe>
 <iframe frameborder="0" width="100%" height="390" src="https://www.mql5.com/en/signals/widget/top/57u4?c=5&t=16755C"></iframe>
 <iframe src="https://www.mql5.com/en/signals/widget/showcase/57u6"></iframe>
