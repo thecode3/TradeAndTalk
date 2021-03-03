@@ -55,15 +55,23 @@ var x = setInterval(function() {
 								<p style="color:16755C;"> The Calendar : Currency And Alt Coin And Crypto Currency And Tokens <p>
 								<br>
 								<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
-								<div id="navigatorWidget"></div>
-								<script type="text/javascript">new
-navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":"150%","height":"300%"});
-								</script>
+<div id="navigatorWidget"></div>
+<script type="text/javascript">
+    new navigatorWidget({"type":"chart","filter":"GBPUSD","period":"M15","width":150,"height":500});
+</script>
+								<br>
+									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
+<div id="navigatorWidget"></div>
+<script type="text/javascript">
+    new navigatorWidget({"type":"matrix","filter":"","width":150,"height":500});
+</script>
 								<br>
 								<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
-								<div id="navigatorWidget"></div>
-								<script type="text/javascript">new navigatorWidget({"type":"matrix","filter":"","width":150,"height":300}
-								</script>
+<div id="navigatorWidget"></div>
+<script type="text/javascript">
+    new navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":150,"height":500});
+</script>
+								
 								<h2 style="color:16755C;text-align:center;"> <p>Trade And Talk Community©®™ 2021 <br> All legal rights are held by © 2021 GitHub, Inc.
 								</h2>
 								<head>
