@@ -33,7 +33,7 @@ var x = setInterval(function() {
 <html>
 	<body>
 		<audio controls autoplay>
-			<source src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue1.mp3 , https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue2.mp3">
+			<source src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue1.mp3">
 			</audio>
 		<head>
 			<style>
@@ -71,7 +71,7 @@ var x = setInterval(function() {
 <script type="text/javascript">
     new navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":150,"height":500});
 </script>
-								
+								<p>
 								<h2 style="color:16755C;text-align:center;"> <p>Trade And Talk Community©®™ 2021 <br> All legal rights are held by © 2021 GitHub, Inc.
 								</h2>
 								<head>
