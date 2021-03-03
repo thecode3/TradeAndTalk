@@ -57,7 +57,7 @@ var x = setInterval(function() {
 								<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 <div id="navigatorWidget"></div>
 <script type="text/javascript">
-    new navigatorWidget({"type":"chart","filter":"GBPUSD","period":"M15","width":500,"height":500});
+    new navigatorWidget({"type":"overview","filter":"","style":"tiles","period":"D1","width":500,"height":500});
 </script>
 								<p>
 									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
