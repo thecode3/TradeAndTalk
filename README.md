@@ -72,8 +72,7 @@ var x = setInterval(function() {
     new navigatorWidget({"type":"converter","filter":"USDGBP","datepicker":true,"details":true,"extras":"USD,EUR,GBP,JPY,CHF,CNH,CAD,NOK,AUD,SGD,NZD,SEK,RUB,ZAR,MXN,PLN,HKD","width":500,"height":500});
 </script>
 								<p>
-								<h2 style="color:16755C;text-align:center;"> <p>Trade And Talk Community©®™ 2021 <br> All legal rights are held by © 2021 GitHub, Inc.
-								</h2>
+<h2 style="color:16755C;text-align:center;"> <p>Trade And Talk Community©®™ 2021 <br> All legal rights are held by© 2021 GitHub, Inc.</h2>
 								<head>
 									<body>
 										<html>
