@@ -53,19 +53,19 @@ var x = setInterval(function() {
 							<html>
 								<h1 style="color:16755C;text-align:center;">Trade And Talk Community©®™ 2021</h1>
 								<p style="color:16755C;"> The Calendar : Currency And Alt Coin And Crypto Currency And Tokens <p>
-								<br>
+								<p>
 								<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 <div id="navigatorWidget"></div>
 <script type="text/javascript">
     new navigatorWidget({"type":"chart","filter":"GBPUSD","period":"M15","width":150,"height":500});
 </script>
-								<br>
+								<p>
 									<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 <div id="navigatorWidget"></div>
 <script type="text/javascript">
     new navigatorWidget({"type":"matrix","filter":"","width":150,"height":500});
 </script>
-								<br>
+								<p>
 								<script type="text/javascript" src="https://c.mql5.com/js/widgets/navigator/widget.js"></script>
 <div id="navigatorWidget"></div>
 <script type="text/javascript">
