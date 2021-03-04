@@ -33,7 +33,7 @@ var x = setInterval(function() {
 <html>
 	<body>
 		<audio controls autostart="true">
-			<source src="main/src/Blue1.mp3,main/src/Blue1.mp3" type="audio/mp3">
+			<source src="thecode3/TradeAndTalk/blob/main/src/Blue1.mp3" type="audio/mp3">
 		</audio>
 		<head>
 			<style>
