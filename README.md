@@ -33,9 +33,7 @@ var x = setInterval(function() {
 <html>
 	<body>
 		<audio controls autostart="true">
-			<source src="/main/src/Blue1.mp3" type="audio/mp3">
-			<source src="/main/src/Blue1.mp3" type="audio/mpeg">
-			Your browser does not support the audio element.
+			<source src="main/src/Blue1.mp3,main/src/Blue1.mp3" type="audio/mp3">
 		</audio>
 		<head>
 			<style>
@@ -86,13 +84,13 @@ var x = setInterval(function() {
 </head>
 <body>
 
-<h1>The button element - Styled with CSS</h1>
+<h1>Welcom To Trade And Talk Community</h1>
 
-<p>Use the :hover selector to change the style of the button when you move the mouse over it.</p>
-<p><strong>Tip:</strong> Use the transition-duration property to determine the speed of the "hover" effect:</p>
+<p>Site under construction Please see timeline carefully.</p>
+<p><strong>Note:</strong> It is all normal, and in the near future the initial opening of the work plan will take place, monitoring resources and addressing problems as a whole is not specifically granted to anyone.</p>
 
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
+<button class="button button1">الدخول</button>
+<button class="button button2">Watch Market</button>
 
 </body>
 </html>
