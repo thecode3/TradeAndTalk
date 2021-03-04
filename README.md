@@ -34,7 +34,7 @@ var x = setInterval(function() {
 	<body>
 		<audio controls autoplay>
 			<source src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue1.mp3">
-			</audio>
+			<audio/>
 		<head>
 			<style>
 				body {
