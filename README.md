@@ -33,8 +33,8 @@ var x = setInterval(function() {
 <html>
 	<body>
 		<audio controls autostart="true">
-			<source src="horse.ogg" type="audio/ogg">
-			<source src="horse.mp3" type="audio/mpeg">
+			<source src="/main/src/Blue1.mp3" type="audio/mp3">
+			<source src="/main/src/Blue1.mp3" type="audio/mpeg">
 			Your browser does not support the audio element.
 		</audio>
 		<head>
