@@ -32,8 +32,8 @@ var x = setInterval(function() {
 </script>
 <html>
 	<body>
-		<audio controls autostart="true">
-			<source src="thecode3/TradeAndTalk/blob/main/src/Blue1.mp3" type="audio/mp3">
+		<audio controls autoplay loop>
+			<source src="https://github.com/thecode3/TradeAndTalk/blob/main/src/Blue1.mp3?raw=true" type="audio/mpeg">
 		</audio>
 		<head>
 			<style>
