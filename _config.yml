@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Welcome To The Trade And Talk Community
-on:
-  push:
+on: README.md
+  push: TradeAndTalk Website Page.md
     paths:
       - TradeAndTalk Website Page.md
