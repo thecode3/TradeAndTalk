@@ -89,7 +89,7 @@ var x = setInterval(function() {
 <p>Site under construction Please see timeline carefully.</p>
 <p><strong>Note:</strong> It is all normal, and in the near future the initial opening of the work plan will take place, monitoring resources and addressing problems as a whole is not specifically granted to anyone.</p>
 
-<button class="button button1">الدخول</button>
+<button class="button button1">Access</button>
 <button class="button button2">Watch Market</button>
 
 </body>
