@@ -1,1 +1,3 @@
-www.tradeandtalk.com
+type  = CNAME
+name  = @
+value = thecode3.github.io/TradeAndTalk
